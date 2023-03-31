@@ -1,5 +1,4 @@
 # timer
-基于时间轮定时器代码
+base time_wheel
 
-按照年/月/日三层时间轮封装的定时器
-所有可使用的接口都封装在timer内
+Timer packaged with three layers of time wheel according to year/month/day
